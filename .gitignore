@@ -1,0 +1,15 @@
+# Node modules
+Frontend/node_modules/
+Frontend/build/
+
+# Spring Boot
+Backend/target/
+*.class
+*.jar
+*.war
+
+# Logs and IDE settings
+*.log
+*.iml
+.idea/
+.vscode/
